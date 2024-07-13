@@ -13,7 +13,7 @@
 	<artifactId>spring-cloud-gcp-kotlin-app-sample</artifactId>
 
 	<properties>
-		<kotlin.version>1.3.41</kotlin.version>
+		<kotlin.version>1.6.0</kotlin.version>
 	</properties>
 
 	<!-- The Spring Cloud GCP BOM will manage spring-cloud-gcp version numbers for you. -->
